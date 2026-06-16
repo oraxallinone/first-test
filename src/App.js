@@ -1,5 +1,5 @@
 import React from 'react';
-import EmpList from './Components/EmpList/EmpList'; // Point to the JS file
+import EmpList from './Components/Emps/EmpList';
 
 function App() {
   return (
